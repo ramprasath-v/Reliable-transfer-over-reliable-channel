@@ -7,7 +7,7 @@
 #include<string.h>
 #include<unistd.h>
 #include<netdb.h>
-#include<stdlib.h>
+#include<stdlib.h> 
 int main(int argc,char* argv[])
 {
     struct sockaddr_in clientaddr,serveraddr;
